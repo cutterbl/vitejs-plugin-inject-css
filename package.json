@@ -35,6 +35,7 @@
   "scripts": {
     "build": "rimraf dist && esbuild src/index.js --bundle --outfile=dist/vitejs-plugin-inject-css.es.js --platform=node --external:./node_modules/*",
     "prepare": "is-ci || husky install",
+    "release": "standard-version -a",
     "shrinkwrap": "zx ./.scripts/shrinkwrap.mjs"
   },
   "dependencies": {
