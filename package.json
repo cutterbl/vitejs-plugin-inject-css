@@ -1,6 +1,6 @@
 {
   "name": "@cxing/vitejs-plugin-inject-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for ViteJs library builds to inject css modules",
   "keywords": [
     "ViteJs",
