@@ -38,9 +38,6 @@ jobs:
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Test 
-        run: yarn test
-
       - name: Build fresh for new package with updated version numbers
         run: yarn build
 
