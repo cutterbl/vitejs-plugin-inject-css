@@ -1,0 +1,29 @@
+{
+  "name": "@cxing/vitejs-plugin-inject-css",
+  "version": "0.0.1",
+  "description": "A plugin for ViteJs library builds to inject css modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutterbl/vitejs-plugin-inject-css.git"
+  },
+  "keywords": [
+    "ViteJs",
+    "vite",
+    "css",
+    "modules",
+    "css",
+    "sass",
+    "less",
+    "build"
+  ],
+  "author": "Steve 'Cutter' Blades",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cutterbl/vitejs-plugin-inject-css/issues"
+  },
+  "homepage": "https://github.com/cutterbl/vitejs-plugin-inject-css#readme"
+}
